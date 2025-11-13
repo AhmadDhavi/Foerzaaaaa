@@ -13,7 +13,7 @@
 
 ---
 
-### 📱 Connect with Me
+<h3 align="center">📱 Connect with Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmad-dhavi-fauzan-yudistira-648a64289/" target="_blank">
