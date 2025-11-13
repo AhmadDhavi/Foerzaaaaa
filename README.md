@@ -23,9 +23,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
-#### 💻 Languages
+<h4 align="center">💻 Languages</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" />
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
 </div>
 
-#### 🚀 Frameworks & Libraries
+<h4 align="center">🚀 Frameworks & Libraries</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
@@ -44,14 +44,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" />
 </div>
 
-#### 🗄️ Databases
+<h4 align="center">🗄️ Databases</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
 </div>
 
-#### 🔧 Tools & Platforms
+<h4 align="center">🔧 Tools & Platforms</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
@@ -63,7 +63,7 @@
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
 
@@ -79,12 +79,14 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Foerzaaaaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foerzaaaaa&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foerzaaaaa&theme=tokyonight" alt="GitHub Streak" />
@@ -96,6 +98,6 @@
   <img src="https://komarev.com/ghpvc/?username=Foerzaaaaa&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
 
-<div align="center">
+<p align="center">
   <strong>⭐ Feel free to star my repos if you find them useful!</strong>
-</div>
+</p>
