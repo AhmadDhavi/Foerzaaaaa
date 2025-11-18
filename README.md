@@ -79,13 +79,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foerzaaaaa&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadDhavi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Foerzaaaaa&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AhmadDhavi&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
 
 <p align="center">
